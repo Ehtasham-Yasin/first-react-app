@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/Ehtasham-Yasin/first-react-app.git",
+    "name": "first-react-app",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview",
+        "deploy": "gh-pages -d dist"
+    },
+    "dependencies": {
+        "@vitejs/plugin-react": "latest",
+        "gh-pages": "^6.3.0",
+        "react": "latest",
+        "react-dom": "latest",
+        "vite": "latest"
+    }
+}
